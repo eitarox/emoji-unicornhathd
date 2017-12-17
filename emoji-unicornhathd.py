@@ -21,8 +21,8 @@ Press Ctrl+C to exit!
 unicornhathd.rotation(0)
 
 # Azure API Key
-# ここを変更してください！
-api_key = 'キー１'
+# Change Here!
+api_key = '    '
 
 # CV2
 cascade_path = "/usr/share/opencv/haarcascades/haarcascade_frontalface_alt.xml"
